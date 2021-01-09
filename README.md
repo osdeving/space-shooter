@@ -10,7 +10,7 @@ joguinho de space shooter feito em javascript!
  
 ## Jogue
 
-https://osdeving.github.io/space-shooter/
+https://osdeving.github.io/space-shooter/index.html
 
 ## 🚀 Let's code! 🚀
 
